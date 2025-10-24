@@ -1,7 +1,7 @@
 # Arquitectura de Microservicios - Sistema de Gestión de Medianos
 
 ## Descripción General
-Este proyecto implementa una **arquitectura de microservicios completa** usando Spring Boot y Spring Cloud para gestionar un sistema de productos "Medianos" (enanos), inventario y órdenes. El sistema demuestra patrones fundamentales de microservicios como Service Discovery, API Gateway, comunicación entre servicios y load balancing.
+Este proyecto implementa una **arquitectura de microservicios completa** usando Spring Boot y Spring Cloud para gestionar un sistema de productos "Medianos", inventario y órdenes. El sistema demuestra patrones fundamentales de microservicios como Service Discovery, API Gateway, comunicación entre servicios y load balancing.
 
 ## 🏗️ Arquitectura del Sistema
 
