@@ -194,6 +194,10 @@ curl http://localhost:8080/api/inventory/PROD001
 | Orders Service | 8082 | MySQL:3306 | http://localhost:8080/api/order |
 | Inventory Service | 8083 | PostgreSQL:5431 | http://localhost:8080/api/inventory |
 
+## Instancias registradas con Eureka
+
+ ![Image Alt](https://github.com/josedjaykv/Microservices_JavaSpring-Eureka/blob/10c9d4008b19714e89797b4a24e574c6c932e1ad/InstanciasRegistradasEureka.png)
+ 
 ## 🔧 Bases de Datos
 
 ### Docker Compose - Configuración
