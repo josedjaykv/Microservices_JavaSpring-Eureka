@@ -1,7 +1,7 @@
 # Products Service - Servicio de Medianos
 
 ## Descripción
-El **Products Service** es un microservicio desarrollado en Spring Boot que gestiona el catálogo de productos "Medianos" (enanos). Este servicio forma parte de una arquitectura de microservicios y se registra automáticamente en el servidor de descubrimiento Eureka.
+El **Products Service** es un microservicio desarrollado en Spring Boot que gestiona el catálogo de productos "Medianos". Este servicio forma parte de una arquitectura de microservicios y se registra automáticamente en el servidor de descubrimiento Eureka.
 
 ## Características Principales
 - **Puerto**: 8081
