@@ -335,13 +335,3 @@ Cada componente tiene documentación detallada:
 - [Inventory Service README](inventory-service/README.md)
 - [Orders Service README](orders-service/README.md)
 
-## 🚀 Próximos Pasos
-
-### Mejoras Sugeridas
-1. **Seguridad**: Implementar OAuth2/JWT
-2. **Monitoring**: Añadir Micrometer + Prometheus
-3. **Tracing**: Implementar Sleuth para trazabilidad
-4. **Configuration**: Spring Cloud Config Server
-5. **Testing**: Contratos con Spring Cloud Contract
-
-Esta arquitectura proporciona una base sólida para un sistema de microservicios escalable, mantenible y resiliente.
